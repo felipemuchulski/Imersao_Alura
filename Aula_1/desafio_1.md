@@ -2,7 +2,6 @@
 Qual ferramenta do google que posso utilizar para exportar meus dados de navegação, para poder gerar uma planilha com os sites e mostrar quantidade de uso. Será necessário que essa planilha mostre o que são sites de entretenimento ou sites de conteúdos educativos.
 volume_up
 
-
 > Resposta do Gemini
 No momento, o Google não oferece uma ferramenta única para exportar seus dados de navegação e gerar uma planilha com as informações que você deseja, categorizando automaticamente os sites em "entretenimento" e "educativos".
 

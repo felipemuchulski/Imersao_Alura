@@ -1,4 +1,5 @@
 # Explorando os parâmetros do Google AI Studio:
+
 > Novas funções de prompt:
 
 - Chat Prompt: É o prompt onde o IA Studio vai guardando as informações passadas no chat, sendo assim, as informações do chat estão guardadas na memória da IA.
